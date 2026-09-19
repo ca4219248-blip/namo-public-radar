@@ -1,0 +1,91 @@
+{
+  "updated": "2026-09-19T12:00:00+05:30",
+  "note": "Sirf publicly announced engagements. Yeh real-time GPS tracking nahi hai — schedule-based inference hai.",
+  "engagements": [
+    {
+      "id": "e1",
+      "title": "'Namo for Viksit Bharat' — ₹35,000+ crore projects",
+      "detail": "WDFC ke 3 sections dedicate hue (326 route km, ₹20,700+ cr). Railway + highway foundation stones. ~10,000 registered attendees.",
+      "city": "Vadodara",
+      "venue": "MSU Pavilion Ground",
+      "lat": 22.3072,
+      "lng": 73.1812,
+      "start": "2026-09-08T12:00:00+05:30",
+      "end": "2026-09-08T14:30:00+05:30",
+      "pm": true,
+      "source": "PIB",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307319&lang=1&reg=48"
+    },
+    {
+      "id": "e2",
+      "title": "Global Fintech Fest 2026 — inauguration",
+      "detail": "7th edition (8–11 Sept). Theme: Agentic AI, Tokenisation, Quantum.",
+      "city": "Mumbai",
+      "venue": "Mumbai (venue officially named nahi hua)",
+      "lat": 19.076,
+      "lng": 72.8777,
+      "start": "2026-09-08T17:45:00+05:30",
+      "end": "2026-09-08T19:15:00+05:30",
+      "pm": true,
+      "source": "PIB",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307319&lang=1&reg=48"
+    },
+    {
+      "id": "e3",
+      "title": "18th BRICS Summit — India host",
+      "detail": "New Delhi Declaration consensus se adopt hui. Dates approximate — mid-Sept confirmed.",
+      "city": "New Delhi",
+      "venue": "New Delhi",
+      "lat": 28.6129,
+      "lng": 77.2295,
+      "start": "2026-09-13T09:00:00+05:30",
+      "end": "2026-09-13T18:00:00+05:30",
+      "pm": true,
+      "approx": true,
+      "source": "ANN / PIB",
+      "url": "https://asianews.network/indias-chips-will-go-out-to-the-world-pm-modi-sets-global-ambition-as-semicon-2-0-targets-200-chip-design-firms/"
+    },
+    {
+      "id": "e4",
+      "title": "SEMICON India 2026 — inauguration (76th birthday)",
+      "detail": "20 students se interaction; virtual production line launches (Mohali, Surat); Semicon 2.0 roadmap $13.5 bn.",
+      "city": "New Delhi",
+      "venue": "Yashobhoomi Convention Centre",
+      "lat": 28.6157,
+      "lng": 77.0475,
+      "start": "2026-09-17T18:00:00+05:30",
+      "end": "2026-09-17T20:30:00+05:30",
+      "pm": true,
+      "source": "PIB",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2311726&lang=2&reg=48"
+    },
+    {
+      "id": "e5",
+      "title": "SEMICON India 2026 — conference, final day",
+      "detail": "Event 17–19 Sept tak Yashobhoomi mein. PM ki 19 Sept ke liye participation announced nahi.",
+      "city": "New Delhi",
+      "venue": "Yashobhoomi Convention Centre",
+      "lat": 28.6157,
+      "lng": 77.0475,
+      "start": "2026-09-19T10:00:00+05:30",
+      "end": "2026-09-19T18:00:00+05:30",
+      "pm": false,
+      "source": "ANN",
+      "url": "https://asianews.network/indias-chips-will-go-out-to-the-world-pm-modi-sets-global-ambition-as-semicon-2-0-targets-200-chip-design-firms/"
+    },
+    {
+      "id": "e6",
+      "title": "Seva Sankalp Abhiyan — nationwide BJP programme",
+      "detail": "17 Sept – 17 Oct. Varanasi ↔ Vadnagar bike yatras, blood donation camps. PM personally har event mein nahi.",
+      "city": "Nationwide",
+      "venue": "—",
+      "lat": null,
+      "lng": null,
+      "start": "2026-09-17T06:00:00+05:30",
+      "end": "2026-10-17T23:59:00+05:30",
+      "pm": false,
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-76th-birthday-wishes-live-updates-nda-bjp-varanasi-lamps-vadnagar-bjp-25-years-in-office-gujarat-amit-shah-101789608217390.html"
+    }
+  ]
+}
